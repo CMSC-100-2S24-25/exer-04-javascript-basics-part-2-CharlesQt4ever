@@ -19,3 +19,4 @@ Using JavaScript as a programming language is a fun and exciting thing to do. I 
 ## References
 - https://www.w3schools.com/js/js_modules.asp
 - https://www.youtube.com/watch?v=Jqn_wjkSZwo
+- https://stackoverflow.com/questions/7905929/how-to-test-valid-uuid-guid
